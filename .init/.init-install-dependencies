@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/event-ticketing-platform-121457/event_ticketing_frontend"
+}
